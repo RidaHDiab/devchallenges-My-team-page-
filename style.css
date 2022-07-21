@@ -43,7 +43,7 @@ img{
     width: 16.7vw;
     height: 23.6vw;
 }
-@media screen and (max-device-width=800) {
+@media screen and (max-device-width=1200) {
     body{
         background-color: #fafafa;
         font-family: 'Poppins';
