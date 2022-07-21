@@ -61,11 +61,10 @@ img{
         font-family: 'PT serif';
         font-size: 2vw;
         letter-spacing: -0.4vw;
-        width: 33vw;
+        width: 100%;
     }
     .p{
-        width: 30vw;
-        float: right;
+        width: 100%;
     }
     .grid-container{
         margin-left: 16.667%;
